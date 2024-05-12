@@ -26,7 +26,7 @@ fn main() {
             }
         };
 
-        let result = match choice {
+        match choice {
             1 => operations::add(),
             2 => operations::subtract(),
             3 => operations::multiply(),

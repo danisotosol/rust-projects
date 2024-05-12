@@ -1,1 +1,1 @@
-C:\Users\danie\Documents\code\rust\calculator\target\debug\calculator.exe: C:\Users\danie\Documents\code\rust\calculator\src\main.rs C:\Users\danie\Documents\code\rust\calculator\src\operations.rs
+C:\Github\rust-projects\projects\calculator\target\debug\calculator.exe: C:\Github\rust-projects\projects\calculator\src\main.rs C:\Github\rust-projects\projects\calculator\src\operations.rs
